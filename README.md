@@ -8,3 +8,8 @@ select()
 read() write()
 socket()
 signal()
+
+Developers:
+
+Laiba Zahid: laibazahid26@gmail.com
+Syed Muhammad Raza Rizvi: smrazarizvi96@gmail.com
