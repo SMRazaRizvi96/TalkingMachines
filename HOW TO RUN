@@ -1,0 +1,21 @@
+How To Run
+
+1. Open the bash file and set the configuration parameters
+
+2. Give running permissions to the bash file by typing the following command
+
+chmod +x main.sh
+
+3. Now run the bash file by typing the following command
+
+./main.sh
+
+It should open 4 terminals:
+
+1. signal
+2. log
+3. server
+4. client
+
+If it doesnt open all the 4 terminals, please run the bash file again.
+
