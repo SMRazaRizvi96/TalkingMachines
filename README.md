@@ -1,4 +1,4 @@
-# TalkingMachines
+# TalkingProcesses
 This repository demonstrates the data exchange between two machines using Posix Sockets and Pipes in C Language.
 
 The main POSIX syscalls involved were:
