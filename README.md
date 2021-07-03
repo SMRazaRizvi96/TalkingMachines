@@ -11,8 +11,6 @@ signal()
 
 
 
-#### Developers:
-
-Laiba Zahid: laibazahid26@gmail.com
+#### Developer:
 
 Syed Muhammad Raza Rizvi: smrazarizvi96@gmail.com
