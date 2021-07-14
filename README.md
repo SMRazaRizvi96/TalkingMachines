@@ -13,4 +13,4 @@ signal()
 
 #### Developer:
 
-Syed Muhammad Raza Rizvi: smrazarizvi96@gmail.com
+[Syed Muhammad Raza Rizvi](https://github.com/SMRazaRizvi96) smrazarizvi96@gmail.com
